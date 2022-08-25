@@ -10,10 +10,6 @@ All the code needed for DSD Lab.
 
 - Lab Session wise folders. 
 - Continuous Assignment & Gate Level Primitive folder separate for each session.
-- TestBench,<span style="color:green;font-weight:700;font-size:20px">
-    .vvp
-</span> and <span style="color:green;font-weight:700;font-size:20px">
-    vcd
-</span> files for each instance.
+- TestBench,.vvp, & .vcd files for each instance.
 
 
